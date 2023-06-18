@@ -1,0 +1,62 @@
+[
+  {
+    "skill": "Kubernetes",
+    "rating": 4,
+    "info": "Kubernetes is my first love from the start of career."
+  },
+  {
+    "skill": "CICD",
+    "rating": 4,
+    "info": "Using in Work from about 6+ years "
+  },
+  {
+    "skill": "GitOps",
+    "rating": 4,
+    "info": "If you want to get more done in less, this is your choice. "
+  },
+  {
+    "skill": "DevSecOps",
+    "rating": 4,
+    "info": "Used DevSecOps concepts."
+  },
+  {
+    "skill": "MicroServices",
+    "rating": 4,
+    "info": "Most important concern in Microservices pattern is Communication"
+  },
+  {
+    "skill": "Git - Version Ctrl",
+    "rating": 4,
+    "info": "An Amazing version control System, used the same in freelance and past company projects."
+  },
+  {
+    "skill": "AWS Cloud",
+    "rating": 4,
+    "info": "AWS Public cloud."
+  },
+  {
+    "skill": "Python",
+    "rating": 4,
+    "info": "Used the latest version of Python programming and scripting!"
+  },
+  {
+    "skill": "Automation",
+    "rating": 4,
+    "info": "Automate everything"
+  },
+  {
+    "skill": "ArgoCD",
+    "rating": 4,
+    "info": "Continuous Deployment."
+  },
+  {
+    "skill": "Rancher",
+    "rating": 4,
+    "info": "complete software stack for teams adopting containers."
+  },
+  {
+    "skill": "Terraform",
+    "rating": 3,
+    "info": "infrastructure as code tool that enables us to safely and predictably provision and manage infrastructure in any cloud"
+  }
+]
