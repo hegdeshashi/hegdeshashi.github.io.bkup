@@ -1,1 +1,0 @@
-Experienced Architect with a demonstrated history of working in the information technology and services industry. Skilled in Public Cloud like AWS, along with Kubernetes & Docker solution, DevOps tools. Strong knowledge on end to end Cloud Solutions and migration skill.
